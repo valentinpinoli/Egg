@@ -11,6 +11,7 @@ public class Persona {
     private String sexo;
     private double peso;
     private double altura;
+    private String prueba;
 
     public Persona() {
     }
